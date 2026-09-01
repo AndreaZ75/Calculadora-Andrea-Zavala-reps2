@@ -56,6 +56,7 @@ Calculadora-repositorio2-/
 ├── main.py                                   # Punto de entrada principal
 ├── README.md                                 # Documentación técnica del proyecto
 └── RETROSPECTIVA.md                          # Informe de cierre y retrospectiva del equipo
+
 ```
 
 Diagramas del Sistema
@@ -77,7 +78,7 @@ Flujo de trabajo en Git/GitHub: Al ser de las primeras experiencias colaborativa
 Estimación inicial de tareas: La integración de la documentación, la generación de diagramas en formato Draw.io y el afinado de detalles visuales tomaron más tiempo del planeado cerca del cierre.
 
 3. ¿Qué haríamos distinto la próxima vez?
-Definir estándares de ramas desde el día 1: Establecer reglas strictly claras sobre nombres de ramas y momentos de commit para evitar conflictos de fusión al integrar funciones de la interfaz.
+Definir estándares de ramas desde el día 1: Establecer reglas estrictas sobre nombres de ramas y momentos de commit para evitar conflictos de fusión al integrar funciones de la interfaz.
 
 Pruebas unitarias automáticas: Desarrollar scripts de prueba con unittest para comprobar la evaluación de cadenas aritméticas antes de vincularlas a los eventos de la interfaz gráfica.
 
