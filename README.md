@@ -23,9 +23,12 @@ El proyecto se seleccionó tomando como referencia la implementación base del r
 ---
 
 ## Diagrama de flujo
-![Diagrama de Flujo](diagrams/diagrama_flujo_calculador_class.png)
-![Diagrama GUI](diagrams/diagrama_flujo_calculadora_gui.png)
 
+### Flujo del Motor de Cálculo (Clase Calculador)
+![Diagrama Calculador](<DIAGRAMA DE FLUJO/calculador.png>)
+
+### Arquitectura de Interfaz y Eventos GUI (Clase Calculadora)
+![Diagrama Calculadora](<DIAGRAMA DE FLUJO/calculadora.png>)
 ## Metodología de Desarrollo
 
 ### Metodología Elegida
