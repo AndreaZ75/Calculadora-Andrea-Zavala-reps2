@@ -22,6 +22,10 @@ El proyecto se seleccionó tomando como referencia la implementación base del r
 
 ---
 
+## Diagrama de flujo
+![Diagrama de Flujo](diagrams/diagrama_flujo_calculador_class.png)
+![Diagrama GUI](diagrams/diagrama_flujo_calculadora_gui.png)
+
 ## Metodología de Desarrollo
 
 ### Metodología Elegida
