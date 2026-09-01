@@ -31,6 +31,9 @@ El proyecto se seleccionó tomando como referencia la implementación base del r
 ![Diagrama Calculadora](<DIAGRAMA DE FLUJO/calculadora.png>)
 ## Metodología de Desarrollo
 
+### Arquitectura de Interfaz y Eventos GUI (Clase Calculadora)
+![Diagrama Calculadora](<DIAGRAMA DE FLUJO/calculadora.jpeg>)
+
 ### Metodología Elegida
 **Enfoque Ágil con Kanban Ligero.**
 
