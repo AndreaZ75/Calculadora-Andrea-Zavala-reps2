@@ -7,7 +7,8 @@
 
 ### Justificación Formal
 El proyecto se seleccionó tomando como referencia la implementación base del repositorio [matheusfelipeog/calculadora-tk](https://github.com/matheusfelipeog/calculadora-tk)[cite: 3] con el objetivo de analizar, refactorizar y documentar un motor de cálculo modular y visualmente adaptable. Esta elección representó un alcance técnicamente adecuado dentro del marco temporal de la práctica, permitiendo aplicar la separación de responsabilidades entre la interfaz visual (`Calculadora`) y la lógica interna de evaluación (`Calculador`), validando de punta a punta las 5 fases del ciclo de vida del software (**Comunicación, Planeación, Modelado, Construcción y Cierre**).
-
+Esto puede brindar una herramienta personal al alcance, si el usuario desea se realicen mas operaciones o solo ciertas funciones añadidas, creando una calculadora personal.
+Con esta se toma como una buena base a iniciar.
 ---
 
 ## Historias de Usuario
@@ -22,23 +23,10 @@ El proyecto se seleccionó tomando como referencia la implementación base del r
 
 ---
 
-## Diagrama de flujo
-
-### Flujo del Motor de Cálculo (Clase Calculador)
-![Diagrama Calculador](<DIAGRAMA DE FLUJO/calculador.png>)
-
-### Arquitectura de Interfaz y Eventos GUI (Clase Calculadora)
-![Diagrama Calculadora](<DIAGRAMA DE FLUJO/calculadora.png>)
-## Metodología de Desarrollo
-
-### Arquitectura de Interfaz y Eventos GUI (Clase Calculadora)
-![Diagrama Calculadora](<DIAGRAMA DE FLUJO/calculadora.jpeg>)
-
 ### Metodología Elegida
 **Enfoque Ágil con Kanban Ligero.**
 
-### Justificación Técnica y Metodológica
-Optamos por un enfoque ágil guiado por un tablero Kanban en **GitHub Projects**. La organización en columnas (*To Do*, *In Progress*, *Done*) nos permitió asignar un *Issue* a cada historia de usuario, priorizar la construcción de los botones y la evaluación sintáctica antes de implementar la persistencia de temas visuales en JSON, manteniendo una visibilidad constante sobre los avances del equipo.
+Dirigiendo hacia un enfoque ágil guiado por un tablero Kanban; la organización en columnas permitiendo asignar un issue a cada historia de usuario, priorizar la construcción de los botones y la evaluación sintáctica antes de implementar la persistencia de temas visuales en JSON, manteniendo una visibilidad constante sobre los avances realizados.
 
 ---
 
