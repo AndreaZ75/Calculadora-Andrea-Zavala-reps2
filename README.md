@@ -59,10 +59,10 @@ Calculadora-repositorio2-/
 
 ```
 
-Diagramas del Sistema
-Flujo del Motor de Cálculo (Clase Calculador)
-Arquitectura de Interfaz y Eventos GUI (Clase Calculadora)
-Retrospectiva del Equipo - Mini Proyecto (Zeldosos)
+
+### Arquitectura de Interfaz y Eventos GUI (Clase Calculadora)
+![Diagrama Calculadora](<DIAGRAMA DE FLUJO/calculadora.png>)
+
 1. ¿Qué funcionó bien?
 Arquitectura modular: Mantener aislada la lógica matemática (Calculador) de los componentes visuales (Calculadora) permitió que el desarrollo y las pruebas de la interfaz avanzaran sin interferir con la evaluación de expresiones.
 
