@@ -7,9 +7,10 @@
 
 ### Justificación Formal
 
-**El proyecto se seleccionó tomando como referencia la implementación base del repositorio [matheusfelipeog/calculadora-tk](https://github.com/matheusfelipeog/calculadora-tk)[cite: 3] con el objetivo de analizar, refactorizar y documentar un motor de cálculo modular y visualmente adaptable. Esta elección representó un alcance técnicamente adecuado dentro del marco temporal de la práctica, permitiendo aplicar la separación de responsabilidades entre la interfaz visual (`Calculadora`) y la lógica interna de evaluación (`Calculador`), validando de punta a punta las 5 fases del ciclo de vida del software (**Comunicación, Planeación, Modelado, Construcción y Cierre**).
+El proyecto se seleccionó tomando como referencia la implementación base del repositorio [matheusfelipeog/calculadora-tk](https://github.com/matheusfelipeog/calculadora-tk)[cite: 3] con el objetivo de analizar, refactorizar y documentar un motor de cálculo modular y visualmente adaptable. Esta elección representó un alcance técnicamente adecuado dentro del marco temporal de la práctica, permitiendo aplicar la separación de responsabilidades entre la interfaz visual (`Calculadora`) y la lógica interna de evaluación (`Calculador`), validando de punta a punta las 5 fases del ciclo de vida del software (Comunicación, Planeación, Modelado, Construcción y Cierre).
 Esto puede brindar una herramienta personal al alcance, si el usuario desea se realicen mas operaciones o solo ciertas funciones añadidas, creando una calculadora personal.
 Con esta se toma como una buena base a iniciar.
+
 ---
 
 ## Historias de Usuario
