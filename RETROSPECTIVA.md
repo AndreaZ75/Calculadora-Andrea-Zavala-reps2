@@ -1,20 +1,12 @@
 1. ¿Qué funcionó bien?
-Arquitectura modular: Mantener aislada la lógica matemática (Calculador) de los componentes visuales (Calculadora) permitió que el desarrollo y las pruebas de la interfaz avanzaran sin interferir con la evaluación de expresiones.
+Diseñar desde un inicio una arquitectura de carpetas claras facilitó el orden de los módulos y la ubicación de las imágenes de forma estructurada cada archivo contenido y centrar la información del README y la organización de las historias de usuario dentro de Github projects para el seguimiento del estado de cada módulo.
+Hubo mejora en el seguimiento de los pasos para realizar un proceso (mencionado en clase).
 
-Personalización de estilos: La lectura dinámica del archivo settings.json facilitó la adición de nuevos temas sin necesidad de modificar el código fuente de la GUI.
+2. ¿Qué no funcionó bien /  costó trabajo?
+Vincular correctamente las imágenes hacia el README presentó dificultades por diferencias entre nombres de archivos, espacios en blanco en las carpetas y sensibilidad a mayúsculas/minúsculas en Github asi como la estructura específica de sintaxis a seguir para añadir imagen de la interfaz.
 
-Comunicación y trabajo en equipo: Mantener una comunicación abierta nos permitió solventar dudas de diseño y asegurar la compatibilidad entre plataformas (Darwin/macOS).
-
-2. ¿Qué no funcionó bien / Nos costó trabajo?
-Gestión de eventos e ingreso de datos: Asegurar la validación adecuada de los operadores en el widget Entry (evitar duplicaciones de puntos o de caracteres inválidos consecutivamente) requirió más ajustes lógicos de los previstos.
-
-Flujo de trabajo en Git/GitHub: Al ser de las primeras experiencias colaborativas con ramas y Pull Requests, la resolución de conflictos al fusionar cambios generó cierta incertidumbre al inicio.
-
-Estimación inicial de tareas: La integración de la documentación, la generación de diagramas en formato Draw.io y el afinado de detalles visuales tomaron más tiempo del planeado cerca del cierre.
 
 3. ¿Qué haríamos distinto la próxima vez?
-Definir estándares de ramas desde el día 1: Establecer reglas estrictas sobre nombres de ramas y momentos de commit para evitar conflictos de fusión al integrar funciones de la interfaz.
-
-Pruebas unitarias automáticas: Desarrollar scripts de prueba con unittest para comprobar la evaluación de cadenas aritméticas antes de vincularlas a los eventos de la interfaz gráfica.
-
-Documentación en paralelo: Diseñar los diagramas de arquitectura e ir redactando el README.md conforme se agregan las historias de usuario en lugar de concentrarlo en la fase final.
+Verificar que la carga de diagramas y recursos visuales funcione correctamente en la vista previa de GitHub a medida que se suben, en lugar de corregirlo en la fase de cierre.
+Dedicarle más énfasis en la etapa de planeación.
+Seguir utilizando la plataforma para conocer lo que brinda y ser herramienta CASE. 
